@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "docker:build": "sh ./scripts/build.sh",
     "build": "tsc",
     "start": "node ./src/index.ts",
     "dev": "ts-node ./src/index.ts",
