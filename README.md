@@ -20,7 +20,7 @@ El proyecto se divide en varias capas, cada una con diferentes responsabilidades
 
 Estos son varios comandos para ejecutar el proyecto.
 
-### Ejecutar test:
+### Ejecutar test
 
 ``npm test``
 
