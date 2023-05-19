@@ -1,6 +1,6 @@
 # Challenge de RatherLabs
 
-Para este desafío decidí usar la api de bitfinex a través de websocket, bitfinex tiene una mejor experiencia para desarrolladores y mejor documentación
+Para este desafío decidí usar la api de bitfinex a través de websocket, bitfinex tiene una mejor experiencia para desarrolladores y mejor documentación.
 
 ## Stack
 - Nodejs
